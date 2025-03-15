@@ -7,7 +7,7 @@ body {
     background-color: #111;
     color: #fff;
     font-family: system-ui;
-    background-image: url('Images/wallpaper.jpg');
+    background-image: url('/Images/wallpaper.jpg');
 }
 
 .crud {
