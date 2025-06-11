@@ -2,7 +2,7 @@
 
 *Empower Your Product Management with Effortless Control*
 
-![last commit](https://img.shields.io/github/last-commit/aboubakertouni1/CRUDS-Product-System-Management?style=for-the-badge)
+![last commit](https://img.shields.io/github/last-commit/aboubakertounli/CRUDS-Product-System-Management?style=for-the-badge)
 ![javascript](https://img.shields.io/badge/javascript-62.5%25-yellow?style=for-the-badge&logo=javascript)
 ![languages](https://img.shields.io/badge/languages-3-blue?style=for-the-badge)
 
@@ -55,7 +55,7 @@ Build CRUDS-Product-System-Management from the source and install dependencies:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/aboubakertouni1/CRUDS-Product-System-Management
+git clone https://github.com/aboubakertounli/CRUDS-Product-System-Management
 ```
 
 2. **Navigate to the project directory:**
